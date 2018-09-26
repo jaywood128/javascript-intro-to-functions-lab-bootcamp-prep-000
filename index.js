@@ -10,5 +10,5 @@ function logShout(string) {
 }
 function logWhispher(string) {
   cosole.log(string.toLowerCase())
-  return string
+  
 }
